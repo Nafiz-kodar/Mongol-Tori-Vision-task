@@ -1,11 +1,6 @@
-# <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/OpenCV_Logo_with_text.svg/320px-OpenCV_Logo_with_text.svg.png" alt="OpenCV" width="160"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/GStreamer_logo.svg/320px-GStreamer_logo.svg.png" alt="GStreamer" width="160"/>
-</p>
+
 
 # GStreamer + OpenCV Live Camera Processing
- GStreamer + OpenCV Live Camera Processing
 
 This Python application uses **GStreamer** and **OpenCV** to capture live video from the default macOS camera (via `avfvideosrc`), process it in real time with several visual effects, and display the modified frames using OpenCV.
 
